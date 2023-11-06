@@ -25,7 +25,8 @@ The cornerstone for creating and overseeing patient profiles. The Patient's Port
 
 📜 Medical History Access<br>
 📅 Appointment Overview<br>
-💊 Prescription Access<br><br>
+💊 Prescription Access<br>
+<br>
 💼 Financial Management<br>
 Optimize billing procedures, monitor financial dealings, and produce exhaustive financial summaries:<br>
 
