@@ -7,34 +7,34 @@ A comprehensive platform designed to streamline and organize the multifaceted op
 📊 Dashboard
 <br>
 Offers a snapshot of crucial metrics:
-
-🧑‍⚕️ Patient count
-📅 Appointments
-💰 Financial overviews
-👩‍⚕️ Doctors Section
+<br>
+🧑‍⚕️ Patient count<br>
+📅 Appointments<br>
+💰 Financial overviews<br>
+👩‍⚕️ Doctors Section<br>
 Provides a space to create individual doctor profiles. Each doctor is granted a personalized:
+<br><br>
+📅 Schedule Management<br>
+📋 Appointment Overview<br>
+💊 Prescription Management<br>
+📅 Schedule Section<br>
+Tailored to cater to the unique timetables of each doctor, simplifying appointment logistics.<br><br>
 
-📅 Schedule Management
-📋 Appointment Overview
-💊 Prescription Management
-📅 Schedule Section
-Tailored to cater to the unique timetables of each doctor, simplifying appointment logistics.
+🧑‍🤝‍🧑 Patient Section<br>
+The cornerstone for creating and overseeing patient profiles. The Patient's Portal promotes:<br><br>
 
-🧑‍🤝‍🧑 Patient Section
-The cornerstone for creating and overseeing patient profiles. The Patient's Portal promotes:
+📜 Medical History Access<br>
+📅 Appointment Overview<br>
+💊 Prescription Access<br>
+💼 Financial Management<br>
+Optimize billing procedures, monitor financial dealings, and produce exhaustive financial summaries:<br><br>
 
-📜 Medical History Access
-📅 Appointment Overview
-💊 Prescription Access
-💼 Financial Management
-Optimize billing procedures, monitor financial dealings, and produce exhaustive financial summaries:
+💵 Financial Activities<br>
+📈 Financial Report<br>
+💊 Pharmacy Management<br>
+Supervise pharmacy sales, evaluate sales data, and produce in-depth sales analyses:<br><br>
 
-💵 Financial Activities
-📈 Financial Report
-💊 Pharmacy Management
-Supervise pharmacy sales, evaluate sales data, and produce in-depth sales analyses:
-
-🛍️ Pharmacy Sales
-📊 Pharmacy Report
-📦 Stock Management
-Maintain a well-organized medicine inventory.
+🛍️ Pharmacy Sales<br>
+📊 Pharmacy Report<br>
+📦 Stock Management<br>
+Maintain a well-organized medicine inventory.<br><br>
